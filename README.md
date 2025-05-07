@@ -17,8 +17,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=touhidahmedtuhin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Snake](assets/github-snake.svg#gh-light-mode-only)
-![Snake](assets/github-snake-dark.svg#gh-dark-mode-only)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
