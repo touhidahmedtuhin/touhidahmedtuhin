@@ -1,0 +1,31 @@
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual runs
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Generate light mode snake
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: assets/github-snake.svg
+
+      # Generate dark mode snake
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: assets/github-snake-dark.svg
+          dark_mode: true
+
+      # Commit and push changes
+      - name: Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update snake animation"
+          add: "assets/github-snake.svg, assets/github-snake-dark.svg"
