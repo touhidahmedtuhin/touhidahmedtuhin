@@ -32,6 +32,3 @@ Passionate about building modern, responsive, and accessible web applications wi
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/touhidahmedtuhin2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://touhidahmedtuhin.com)
 
-## 💻 GitHub Analytics  
-| ![Stats](https://github-readme-stats.vercel.app/api?username=tuhin&show_icons=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin&layout=compact&theme=algolia) |  
-| ------------- | ------------- |
