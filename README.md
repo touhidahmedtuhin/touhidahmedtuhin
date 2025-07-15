@@ -1,34 +1,8 @@
-# Hi, I'm Tuhin 👋
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-### Frontend Developer
+✨ Passionate front-end developer with a keen eye for design and user experience.
+⚙️ Skilled in HTML, CSS, JavaScript, and modern frameworks to build responsive web interfaces.
+🚀 Dedicated to crafting fast, accessible, and visually engaging applications that users love.
 
-Passionate about building modern, responsive, and accessible web applications with clean code and great user experiences.
 
-## 🛠 Tech Stack
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-**Styling:**  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-## 🌱 Currently Learning
-- Advanced React Patterns
-- TypeScript
-- Performance Optimization
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/touhidahmedtuhin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/touhidahmedtuhin2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://touhidahmedtuhin.com)
-
+Skills: VUE JS / REACT / JS / HTML / CSS
