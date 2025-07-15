@@ -1,4 +1,5 @@
-![Header]<img width="666" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/14709ea3-4e6c-45e5-8d37-3a908e2fbbc4" />
+
+<img width="578" height="200" alt="github-header-image (1)" src="https://github.com/user-attachments/assets/55087a9a-60bd-435b-afd7-abbeb2e24729"/>
 
 
 ✨ Passionate front-end developer with a keen eye for design and user experience.
