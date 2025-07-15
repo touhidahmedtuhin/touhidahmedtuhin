@@ -1,4 +1,4 @@
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Header](./github-header-image.png) 
 
 ✨ Passionate front-end developer with a keen eye for design and user experience.
 ⚙️ Skilled in HTML, CSS, JavaScript, and modern frameworks to build responsive web interfaces.
