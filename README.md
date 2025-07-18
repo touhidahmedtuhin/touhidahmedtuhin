@@ -7,4 +7,6 @@
 🚀 Dedicated to crafting fast, accessible, and visually engaging applications that users love.
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+#### 💻 Skills
+
+<img src="https://skillicons.dev/icons?i=bash,js,css,html,ai,figma,git,github,gitlab" />
