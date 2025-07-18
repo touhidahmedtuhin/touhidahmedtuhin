@@ -3,10 +3,23 @@
 
 
 ✨ Passionate front-end developer with a keen eye for design and user experience.
-⚙️ Skilled in HTML, CSS, JavaScript, and modern frameworks to build responsive web interfaces.
-🚀 Dedicated to crafting fast, accessible, and visually engaging applications that users love.
 
 
+
+---
 #### 💻 Skills
 
-<img src="https://skillicons.dev/icons?i=bash,js,css,html,ai,figma,git,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=bash,js,css,html,react,figma,git,github" />
+
+#### 🔨 Workspace
+
+<img src="https://skillicons.dev/icons?i=idea,vscode" />
+
+---
+
+
+#### 👤 Contact
+
+<div style="margin-bottom: 0;">
+📨 Email: <a href="tuhin.dmrc@gmail.com">tuhin.dmrc@gmail.com</a>
+</div>
