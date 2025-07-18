@@ -9,7 +9,7 @@
 ---
 #### 💻 Skills
 
-<img src="https://skillicons.dev/icons?i=bash,js,css,html,react,figma,git,github" />
+<img src="https://skillicons.dev/icons?i=bash,js,css,html,react,tailwind,bootstrap,figma,git,github" />
 
 #### 🔨 Workspace
 
