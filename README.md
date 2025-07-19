@@ -23,3 +23,7 @@
 <div style="margin-bottom: 0;">
 📨 Email: <a href="tuhin.dmrc@gmail.com">tuhin.dmrc@gmail.com</a>
 </div>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
