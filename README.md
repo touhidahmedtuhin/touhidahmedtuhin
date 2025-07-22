@@ -1,9 +1,5 @@
 
-<img width="578" height="200" alt="github-header-image (1)" src="https://github.com/user-attachments/assets/55087a9a-60bd-435b-afd7-abbeb2e24729"/>
-
-
-✨ Passionate front-end developer with a keen eye for design and user experience.
-
+<img width="1584" height="396" alt="Black and White Illustrative Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/f00716a3-5441-45f8-8600-b5bee916e630" />
 
 
 ---
