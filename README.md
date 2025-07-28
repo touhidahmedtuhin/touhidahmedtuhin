@@ -1,8 +1,8 @@
 
-<img width="1584" height="396" alt="Black and White Illustrative Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/f00716a3-5441-45f8-8600-b5bee916e630" />
+Hi, I'm Tuhin! ![waving](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+====================================================================================================================================
 
 
----
 #### 💻 Skills
 
 <img src="https://skillicons.dev/icons?i=bash,js,css,html,react,tailwind,bootstrap,figma,git,github" />
