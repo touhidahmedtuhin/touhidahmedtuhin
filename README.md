@@ -11,7 +11,6 @@ Hi, I'm Tuhin! ![waving](https://user-images.githubusercontent.com/18350557/1763
 
 <img src="https://skillicons.dev/icons?i=idea,vscode" />
 
----
 
 
 #### 👤 Contact
