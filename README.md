@@ -1,6 +1,5 @@
 
-Hi, I'm Tuhin! ![waving](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-====================================================================================================================================
+<img width="1584" height="396" alt="github Banner (2)" src="https://github.com/user-attachments/assets/435ae6d7-2b81-4d52-81ea-a962b9b4eb2d" />
 
 
 #### 💻 Skills
