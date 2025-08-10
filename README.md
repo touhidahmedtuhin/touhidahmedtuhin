@@ -7,7 +7,10 @@
 
 #### 💻 Skills 
 
-<img src="https://skillicons.dev/icons?i=bash,js,css,html,react,tailwind,bootstrap,figma,git,github" />
+<img width="1584" height="396" alt="touhidahmedtuhin-skills (2)" src="https://github.com/user-attachments/assets/f70a5d5e-e1de-4599-99c4-0fba2cf2b60e" />
+
+<!--<img src="https://skillicons.dev/icons?i=bash,js,css,html,react,tailwind,bootstrap,figma,git,github" /> -->
+
 
 #### 🔨 Workspace
 
