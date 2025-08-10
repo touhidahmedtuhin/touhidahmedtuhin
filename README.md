@@ -2,12 +2,13 @@
 
 <img width="1584" height="396" alt="github Banner (3)" src="https://github.com/user-attachments/assets/19fa6e3a-3b18-4315-b43a-2b44ad203861" />
 
-<p align="center" color='#e9007d' ><strong>❝𝒹𝑒𝓈𝒾𝑔𝓃 𝒷𝓎 𝓂𝑒❞</strong></p>
 
 
-#### 💻 Skills 
+<!-- #### 💻 Skills -->
 
-<img width="1584" height="396" alt="touhidahmedtuhin-skills (2)" src="https://github.com/user-attachments/assets/f70a5d5e-e1de-4599-99c4-0fba2cf2b60e" />
+
+<img width="1584" height="396" alt="touhidahmedtuhin-skills (3)" src="https://github.com/user-attachments/assets/547bd366-2b34-4d55-a76d-4a47f2894cbf" />
+
 
 <!--<img src="https://skillicons.dev/icons?i=bash,js,css,html,react,tailwind,bootstrap,figma,git,github" /> -->
 
@@ -31,7 +32,7 @@
 
 
 <img width="1584" height="396" alt="github Banner (4)" src="https://github.com/user-attachments/assets/34e2a2a5-b646-46aa-8fda-66cbcc8938f6" />
-
+<p align="center" color='#e9007d' ><strong>❝𝒹𝑒𝓈𝒾𝑔𝓃 𝒷𝓎 𝓂𝑒❞</strong></p>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
