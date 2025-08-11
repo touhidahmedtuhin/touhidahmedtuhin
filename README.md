@@ -13,11 +13,10 @@
 <!--<img src="https://skillicons.dev/icons?i=bash,js,css,html,react,tailwind,bootstrap,figma,git,github" /> -->
 
 
-#### 🔨 Workspace
+<!-- #### 🔨 Workspace
 
-<img src="https://skillicons.dev/icons?i=idea,vscode" />
-
-
+<img src="https://skillicons.dev/icons?i=idea,vscode" /> -->
+<img width="1584" height="396" alt="touhidahmedtuhin-skills" src="https://github.com/user-attachments/assets/3b9d3c26-bd0f-4bc7-a022-d0b91b3fff71" />
 
 #### 👤 Contact
 
