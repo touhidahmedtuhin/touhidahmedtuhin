@@ -16,8 +16,7 @@
 <!-- #### 🔨 Workspace
 
 <img src="https://skillicons.dev/icons?i=idea,vscode" /> -->
-<img width="1584" height="396" alt="touhidahmedtuhin-skills" src="https://github.com/user-attachments/assets/3b9d3c26-bd0f-4bc7-a022-d0b91b3fff71" />
-
+<img width="1584" height="396" alt="touhidahmedtuhin-skills (4)" src="https://github.com/user-attachments/assets/f0093a77-e473-47c4-a50d-58896885958e" />
 #### 👤 Contact
 
 <div style="margin-bottom: 0;">
