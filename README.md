@@ -22,7 +22,17 @@
 
 <div style="margin-bottom: 0;">
 📨 Email: <a href="tuhin.dmrc@gmail.com">tuhin.dmrc@gmail.com</a>
-</div> </br></br></br>
+</div> </br>
+
+### Project List
+| Project Name          | GitHub Link                          |
+|-----------------------|--------------------------------------|
+| Frontend Project      | https://github.com/touhidahmedtuhin/Frontend-practice-projects  |
+| CSS Practice      | https://github.com/touhidahmedtuhin/CodeToon  |
+| Bat Ball Stump Game      | https://github.com/touhidahmedtuhin/Bat-Ball-Stump-cricket-mini-game   |
+| Website      | https://github.com/touhidahmedtuhin/Foodie-Place   |
+| Movie Slider Show      | https://github.com/touhidahmedtuhin/Movie-Slideshow   |
+| Basic Calculator   | https://github.com/touhidahmedtuhin/Basic-Calculator  |
 
 
 > 🚀 Clone responsibly!  
