@@ -4,9 +4,11 @@
 
 
 <!-- #### 💻 Skills -->
+<!-- New banner -->
+<img width="1584" height="396" alt="touhidahmedtuhin-skills" src="https://github.com/user-attachments/assets/0b4a6d19-9eba-4d53-95d4-d36092fdc134" />
 
 
-<img width="1584" height="396" alt="touhidahmedtuhin-skills (3)" src="https://github.com/user-attachments/assets/547bd366-2b34-4d55-a76d-4a47f2894cbf" />
+<!-- <img width="1584" height="396" alt="touhidahmedtuhin-skills (3)" src="https://github.com/user-attachments/assets/547bd366-2b34-4d55-a76d-4a47f2894cbf" /> -->
 
 
 <!--<img src="https://skillicons.dev/icons?i=bash,js,css,html,react,tailwind,bootstrap,figma,git,github" /> -->
@@ -16,7 +18,7 @@
 
 <img src="https://skillicons.dev/icons?i=idea,vscode" /> -->
 
-<img width="1584" height="396" alt="touhidahmedtuhin-skills" src="https://github.com/user-attachments/assets/27b1aefc-87b1-405a-949a-2e2850b601b7" />
+<!-- <img width="1584" height="396" alt="touhidahmedtuhin-skills" src="https://github.com/user-attachments/assets/27b1aefc-87b1-405a-949a-2e2850b601b7" /> -->
 
 #### 👤 Contact
 
