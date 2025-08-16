@@ -28,6 +28,7 @@
 ### Project List
 | Project Name          | GitHub Link                          |
 |-----------------------|--------------------------------------|
+| Quiz App             | https://github.com/touhidahmedtuhin/DOM/tree/main/DOM/Projects/Quiz-app |
 | Frontend Project      | https://github.com/touhidahmedtuhin/Frontend-practice-projects  |
 | CSS Practice      | https://github.com/touhidahmedtuhin/CodeToon  |
 | Bat Ball Stump Game      | https://github.com/touhidahmedtuhin/Bat-Ball-Stump-cricket-mini-game   |
