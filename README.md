@@ -22,7 +22,7 @@
 #### 👤 Contact
 
 <div style="margin-bottom: 0;">
-📨 Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tuhin.dmrc@gmail.com" target="_blank">tuhin.dmrc@gmail.com</a>
+📨 Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tuhin.dmrc@gmail.com" target="_blank" rel="noopener noreferrer">tuhin.dmrc@gmail.com</a>
 </div> </br>
 
 ### Project List
