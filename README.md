@@ -32,11 +32,7 @@
 <!-- This is the end of extra part -->
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2> 
-
-<div style="margin-bottom: 0;">
-<img src="https://skillicons.dev/icons?i=gmail" /> </br>
-        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tuhin.dmrc@gmail.com" target="_blank" rel="noopener noreferrer">tuhin.dmrc@gmail.com</a>
-</div> </br>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tuhin.dmrc@gmail.com" target="_blank" rel="noopener noreferrer">tuhin.dmrc@gmail.com</a> </br>
 
 
 
