@@ -39,6 +39,7 @@
 ### Project List
 | Project Name          | GitHub Link                          |
 |-----------------------|--------------------------------------|
+| ASP.Net CRUD          | https://github.com/touhidahmedtuhin/StudentManagementSys-CRUD |
 | Quiz App             | https://github.com/touhidahmedtuhin/DOM/tree/main/DOM/Projects/Quiz-app |
 | Frontend Project      | https://github.com/touhidahmedtuhin/Frontend-practice-projects  |
 | CSS Practice      | https://github.com/touhidahmedtuhin/CodeToon  |
