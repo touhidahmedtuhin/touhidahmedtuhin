@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Aspiring .NET developer passionate about building reliable software solutions.
+Aspiring SQA Engineer passionate about building reliable software solutions.
 
 🔭 &nbsp;I'm currently working on **on an application**  
 💬 &nbsp;Ask me about **anything you want!**  
